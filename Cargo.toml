@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 description = "Octos channel abstraction for Robrix runtimes."
-repository = "ssh://git@github.com/Project-Robius-China/robrix-octos-channel.git"
+readme = "README.md"
+repository = "https://github.com/Project-Robius-China/robrix-octos-channel.git"
 
 [dependencies]
 async-stream = "0.3"
